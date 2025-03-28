@@ -9,7 +9,6 @@ import pandas as pd
 import plotly.express as px
 import google.generativeai as genai
 
-# 🔹 Configure Gemini AI (Use Free Version)
 API_KEY = "AIzaSyAYJzZuqrttYLdNt7NULVqtHbDy3Bvmc5I"  # Replace with your actual API key
 genai.configure(api_key=API_KEY)
 
