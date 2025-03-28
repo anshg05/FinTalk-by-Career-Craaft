@@ -1,5 +1,5 @@
 # AIzaSyAYJzZuqrttYLdNt7NULVqtHbDy3Bvmc5I
-
+#Run in YOUR PC 
 import os
 os.system('pip install plotly')
 import plotly.express as px
