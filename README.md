@@ -1,5 +1,5 @@
 # FinTalk-by-Career-Craaft
-An AI powered Chatbot and Visualization platform for finance field.
+An AI powered LLM and Visualization platform for finance field.
 
 
 ![WhatsApp Image 2025-03-28 at 08 22 16](https://github.com/user-attachments/assets/ca57c8ff-3764-4fb6-be1e-0942fed3122b)
